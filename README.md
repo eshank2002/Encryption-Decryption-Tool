@@ -1,4 +1,4 @@
-# Encryption Project
+# Encryption-Decryption Project
 
 This project provides a basic encryption-decryption utility implemented in C++. It includes a header file `encryption.h`, a source file `encryption.cpp`,  `main.cpp`, and a compiled executable `run.exe`.
 
